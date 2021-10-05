@@ -1,0 +1,73 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		12A073B02704A97A00DE4A7B /* Exercise.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Exercise.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		12A073A92704A94F00DE4A7B = {
+			isa = PBXGroup;
+			children = (
+				12A073B02704A97A00DE4A7B /* Exercise.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		12A073AA2704A94F00DE4A7B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1250;
+			};
+			buildConfigurationList = 12A073AD2704A94F00DE4A7B /* Build configuration list for PBXProject "switchConditonExercise" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 12A073A92704A94F00DE4A7B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		12A073AE2704A94F00DE4A7B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		12A073AF2704A94F00DE4A7B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		12A073AD2704A94F00DE4A7B /* Build configuration list for PBXProject "switchConditonExercise" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				12A073AE2704A94F00DE4A7B /* Debug */,
+				12A073AF2704A94F00DE4A7B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 12A073AA2704A94F00DE4A7B /* Project object */;
+}
